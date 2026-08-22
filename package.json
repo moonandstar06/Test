@@ -1,0 +1,11 @@
+{
+  "name": "etsy-api-client",
+  "version": "1.0.0",
+  "description": "Minimal client for the Etsy Open API v3 (api.etsy.com)",
+  "main": "src/etsyClient.js",
+  "type": "module",
+  "scripts": {
+    "example": "node example.js"
+  },
+  "license": "MIT"
+}
