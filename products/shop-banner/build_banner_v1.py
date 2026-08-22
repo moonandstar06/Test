@@ -16,7 +16,7 @@ from _brand_kit import (
     P_INK, P_INK_MUTED, P_WHITE,
 )
 
-OUT_PATH = os.path.join(os.path.dirname(__file__), "shop_banner.jpg")
+OUT_PATH = os.path.join(os.path.dirname(__file__), "shop_banner_v1_staggered_carousel.jpg")
 
 SCALE = 2  # supersample for crisp text/edges, then downscale
 W, H = 1600 * SCALE, 400 * SCALE
